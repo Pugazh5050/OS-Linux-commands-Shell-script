@@ -148,8 +148,7 @@ cat newfile | grep -i -c "hello"
 grep -R ubuntu /etc
 ## OUTPUT
 
-![image-12](https://github.com/HIRU-VIRU/OS-Linux-commands-Shell-script/assets/145972122/e5ce476b-af10-4403-a1b6-884824aafb39)
-
+<img width="1443" height="921" alt="Screenshot 2025-08-20 090406" src="https://github.com/user-attachments/assets/14bf057c-f8f0-4439-9124-9962bbe15d7d" />
 
 grep -w -n world newfile   
 ## OUTPUT
@@ -419,8 +418,7 @@ cat urllist.txt | tr -d ' ' | tr -s '.'
 tar -cvf backup.tar *
 ## OUTPUT
 
-![image-47](https://github.com/HIRU-VIRU/OS-Linux-commands-Shell-script/assets/145972122/ade6e389-88d9-4e18-a2b5-9cad8eeab035)
-
+<img width="1129" height="946" alt="Screenshot 2025-08-20 090253" src="https://github.com/user-attachments/assets/ac82a751-87bc-42a0-b425-ae250f7a45c0" />
 
 mkdir backupdir
  
@@ -429,8 +427,7 @@ mv backup.tar backupdir
 tar -tvf backup.tar
 ## OUTPUT
 
-![image-48](https://github.com/HIRU-VIRU/OS-Linux-commands-Shell-script/assets/145972122/5bb41cc5-eb5a-4406-868d-b04a5929d057)
-
+<img width="1456" height="994" alt="Screenshot 2025-08-20 085950" src="https://github.com/user-attachments/assets/e72a1b8a-4d63-43f2-8134-918e46e19e06" />
 
 tar -xvf backup.tar
 ## OUTPUT
